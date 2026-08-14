@@ -1,2 +1,2 @@
-# MTI_aDCS
-포트폴리오용 aDCS GIF
+# MTI_Portfolio
+(주)마린테크인 재직 중 작업했던 내용을 GIF를 통해 확인할 수 있도록 작성된 문서입니다.
